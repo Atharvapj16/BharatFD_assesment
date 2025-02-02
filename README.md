@@ -24,8 +24,7 @@ This Django project implements a **Multilingual FAQ System** with **WYSIWYG** ed
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AwkwardlyProfessional/multilingual_FAQ.git
-    cd multilingual_faq
+    git clone https://github.com/Atharvapj16/BharatFD_assesment.git
     ```
 
 2. Create and activate a virtual environment:
